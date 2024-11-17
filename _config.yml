@@ -129,7 +129,7 @@ author:
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=GgZfLQsAAAAJ&hl=es&oi=ao"   
     - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://x.com/NathanBVani"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -146,10 +146,10 @@ footer:
   links:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=GgZfLQsAAAAJ&hl=es&oi=ao"  
+     # url: "https://scholar.google.com/citations?user=GgZfLQsAAAAJ&hl=es&oi=ao"  
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/NathanBVani"
+      #url: "https://x.com/NathanBVani"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
