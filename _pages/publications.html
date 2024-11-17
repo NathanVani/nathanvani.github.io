@@ -16,6 +16,10 @@ classes: default
             font-size: 16px; /* Base font size for the whole page */
             line-height: 1.6;
         }
+        /* Make sure the header is not affected */
+        .site-header {
+        font-size: inherit;  /* Prevent the header's font size from changing */
+        }
         .publication-list {
             list-style-type: none;
             padding: 0;
