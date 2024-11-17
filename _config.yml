@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Nathan Vani"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Inflating balloons & clogging tubes"# site tagline that appears below site title in masthead
 name                     : #"Nathan Vani"
 description              : #"My personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
