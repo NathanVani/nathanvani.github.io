@@ -10,8 +10,13 @@ search: false
 
 .avatar {
     border-radius: 0;
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     object-fit: cover;
+}
+
+/* Adjust site title size */
+.site-title {
+  font-size: 3em; /* Adjust this value as needed */
 }
 
