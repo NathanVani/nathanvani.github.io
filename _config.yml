@@ -115,7 +115,7 @@ analytics:
 author:
   name             : #"Nathan Vani"
   avatar           : "/assets/images/photo-nathan.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Welcome to my personal website!"
+  bio              : "PhD candidate at ESPCI - Paris, PSL"
   location         : "Paris, France"
   email            :
   links:
