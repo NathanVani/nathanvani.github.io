@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : #"Nathan Vani"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo-nathan.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"My personal website"
   location         : #"Paris, France"
   email            :
