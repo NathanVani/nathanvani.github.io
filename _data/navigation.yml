@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-    - title: "Gallery"
+  - title: "Gallery"
     url: /gallery/
   - title: "Publications"
     url: /publications/
