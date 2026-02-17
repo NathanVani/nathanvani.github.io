@@ -115,13 +115,13 @@ analytics:
 author:
   name             : #"Nathan Vani"
   avatar           : "/assets/images/photo-nathan.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate at ESPCI-PSL"
-  location         : "Paris, France"
+  bio              : "Postdoc at University of Amsterdam"
+  location         : "Amsterdam, Netherlands"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nathan.vani@espci.fr"
+      url: "mailto:nathan.vani@ens-paris=saclay.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
